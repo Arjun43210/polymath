@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.container { max-width: 900px; margin: auto; }
+textarea { width: 100%; }
+button { margin-top: 8px; padding: 8px 12px; }
+.answer { margin-top: 16px; padding: 12px; border: 1px solid #ddd; border-radius: 6px; background: #fafafa; }
